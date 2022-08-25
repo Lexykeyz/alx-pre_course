@@ -1,1 +1,1 @@
-My first
+#!/bin/bash and echo "ALX"
